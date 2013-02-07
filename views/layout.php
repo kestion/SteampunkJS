@@ -3,7 +3,8 @@
 	<head>
 		
 		<link rel="stylesheet" type="text/css" href="src/css/style.css">
-		
+		<script src="src/js/jquery.js" type="text/javascript"></script>
+		<script src="src/js/script.js" type="text/javascript"></script>
 	</head>
 
 	<body>

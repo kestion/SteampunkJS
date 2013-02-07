@@ -89,6 +89,8 @@ table {
 .man_txt p{margin-top:50px; font-size:20px;}
 .ressources{color:#B4946F; text-align:right;}
 
+#entry_insect, #entry_tower, #entry_bird, #entry_cute, #entry_spider, #entry_android{display:none;}
+
 @media screen and (max-width: 1100px) {
 	#content{min-height:725px;}
 	.man_icon{float:left; margin-left:2.3%; margin-top:150px; border:1px solid #7C5435; width:30%; padding-bottom:25px; padding-top:25px; text-align:center;}

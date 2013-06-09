@@ -97,3 +97,5 @@ table {
 	.man_icon img{width:300px; height:300px;}
 	.man_icon h2{text-transform:lowercase; margin-top:25px; font-variant:small-caps; color:#7C5435; font-weight:bold; font-size:40px;}
 }
+
+#mon_canvas{background:forestgreen; border:2px solid green; margin-top:125px; margin-left:100px;}
